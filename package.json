@@ -1,0 +1,11 @@
+{
+  "name": "webpack_setup",
+  "version": "1.0.0",
+  "description": "webpack setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Adrian Acosta",
+  "license": "ISC"
+}
